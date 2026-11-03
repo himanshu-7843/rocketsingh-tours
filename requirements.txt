@@ -1,0 +1,13 @@
+Django
+django-allauth
+social-auth-core
+social-auth-app-django
+django-import-export
+PyMySQL
+reportlab
+python-decouple
+whitenoise
+razorpay
+pytz
+six
+sqlparse
